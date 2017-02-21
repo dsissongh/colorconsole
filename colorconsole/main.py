@@ -10,7 +10,7 @@ term = terminal.get_terminal(conEmu=False)
 term.clear()
 term.cprint(5, 0, " test\n")
 resetcolor()
-term.test()
+#term.test()
 
 
 #colors
